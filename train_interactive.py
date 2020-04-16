@@ -34,3 +34,4 @@ if __name__ == '__main__':
     logging.basicConfig(level="INFO")
     nlu_interpreter = RasaNLUInterpreter('./models/nlu/default/weathernlu')
     run_weather_online(nlu_interpreter)
+##done
