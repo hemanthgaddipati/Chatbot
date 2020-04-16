@@ -26,7 +26,7 @@ jsonpickle==1.0
 keras==2.3.0
 pandoc==1.0.2
 redis==2.0.0
-tensorflow==1.13.1
+tensorflow==1.15.2
 networkx==2.4
 fbmessenger==5.0
 ConfigArgParse==0.13.0
